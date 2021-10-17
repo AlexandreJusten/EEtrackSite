@@ -1,0 +1,43 @@
+<!--artistas1-->
+      <div class="col-md-8 col-md-offset-2 section-container-spacer text-">
+        <!--Yungvh-->
+        <a class="btn btn-default" type="button" data-toggle="collapse" data-target="#Yungvh" aria-expanded="false" aria-controls="Yungvh">
+          <img src="./assets/images/Yungvh.png" alt="" class="img-responsive">
+        </a>
+        <a class="btn btn-default" type="button" data-toggle="collapse" data-target="#Yungvh" aria-expanded="false" aria-controls="Yungvh">
+        Yung vh 
+        </a>
+        <cite title="Source Title">Artista de Trap/Rap 2020</cite>
+        <div class="collapse" id="Yungvh">
+          <div class="card card-body">
+            <iframe src="https://open.spotify.com/embed/artist/4t8XaggGqxljhvTIZ7D8lc" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+          </div>
+        </div>
+      </div>
+      <!--alre-->
+      <div class="col-md-8 col-md-offset-2 section-container-spacer text-">
+        <a class="btn btn-default" type="button" data-toggle="collapse" data-target="#Alre" aria-expanded="false" aria-controls="Alre">
+          <img src="./assets/images/Alre.png" alt="" class="img-responsive">
+        </a>
+        <a class="btn btn-default" type="button" data-toggle="collapse" data-target="#Alre" aria-expanded="false" aria-controls="Alre">
+        Alre
+        </a>
+        <div class="collapse" id="Alre">
+          <div class="card card-body">
+            <iframe src="https://open.spotify.com/embed/artist/6PCKJU7fu36U4fRl7354wU" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>             </div>
+      </div>
+  </div>
+        <!--artistas2-->
+        <div class="col-md-8 col-md-offset-2 section-container-spacer text-">
+          <a class="btn btn-default" type="button" data-toggle="collapse" data-target="#artista2" aria-expanded="false" aria-controls="v">
+            <img src="./assets/images/artista2.png" alt="" class="img-responsive">
+          </a>
+          <a class="btn btn-default" type="button" data-toggle="collapse" data-target="#artista2" aria-expanded="false" aria-controls="artista2">
+            artista2
+          </a>
+          <div class="collapse" id="artista2">
+            <div class="card card-body">
+              <iframe src="https://open.spotify.com/embed/artist/0OLpdla9YvZOtlPnQkXScl" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>      </div>
+  
+      </div>
+    </div>
